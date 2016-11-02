@@ -100,8 +100,6 @@ add_action('publish_post', 'minWord');
 
 
 
-
-
 /*SHORTCODE IFRAME*/
 /*SHORTCODE: [iframe url="http://URBAN-ENERGY.WU" width="100" height="100" scrolling="yes" frameborder="1" marginheight="2"] */
 
